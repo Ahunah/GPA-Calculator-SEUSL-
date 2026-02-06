@@ -91,17 +91,17 @@ README.md
 ## 🖼 Screenshots
 
 ```markdown
-[Splash Screen](<img width="560" height="1177" alt="image" src="https://github.com/user-attachments/assets/924f3f01-bc93-4b2f-ac49-c0695610c6f2" />)
+[Splash Screen]<img width="560" height="1177" alt="image" src="https://github.com/user-attachments/assets/924f3f01-bc93-4b2f-ac49-c0695610c6f2" />
 
-[Welcome Scrren](<img width="800" height="1177" alt="image" src="https://github.com/user-attachments/assets/4ee25b35-3ba0-4abf-8c29-187ca7a98793" />
-)
-[!st year Screen](<img width="546" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d8af014-1bdf-4827-9542-f2cbebb31b2d" />)
+[Welcome Scrren]<img width="800" height="1177" alt="image" src="https://github.com/user-attachments/assets/4ee25b35-3ba0-4abf-8c29-187ca7a98793" />
 
-[2nd year Screen](<img width="543" height="1178" alt="image" src="https://github.com/user-attachments/assets/af77394f-a338-4cca-98f0-2f37c0dce9be" />)
+[!st year Screen]<img width="546" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d8af014-1bdf-4827-9542-f2cbebb31b2d" />
 
-[3rd year Screen](<img width="547" height="1181" alt="image" src="https://github.com/user-attachments/assets/f5f47520-7029-4b4b-b1f8-5cdce05600b7" />)
+[2nd year Screen]<img width="543" height="1178" alt="image" src="https://github.com/user-attachments/assets/af77394f-a338-4cca-98f0-2f37c0dce9be" />
 
-[4th year Screen](<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/b907d660-bf19-46d5-8a3c-b58ac65c11e1" />)
+[3rd year Screen]<img width="547" height="1181" alt="image" src="https://github.com/user-attachments/assets/f5f47520-7029-4b4b-b1f8-5cdce05600b7" />
+
+[4th year Screen]<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/b907d660-bf19-46d5-8a3c-b58ac65c11e1" />
 ```
 
 ## 🤝 Contributing
