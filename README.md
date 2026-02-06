@@ -1,6 +1,6 @@
 # SEUSL ICT GPA Calculator
 
-A modern, user-friendly **Flutter** application for SEUSL (South Eastern University of Sri Lanka) ICT students to calculate Semester / Year GPA using the university's 4.0 scale. The app includes pre-loaded subject lists for 1st–4th year, a clean dashboard-style UI, and dropdown-based grade selection to avoid input errors. ([GitHub][1])
+A modern, user-friendly **Flutter** application for SEUSL (South Eastern University of Sri Lanka) ICT students to calculate Semester / Year GPA using the university's 4.0 scale. The app includes pre-loaded subject lists for 1st–4th year, a clean dashboard-style UI, and dropdown-based grade selection to avoid input errors.
 
 ---
 
@@ -10,7 +10,7 @@ A modern, user-friendly **Flutter** application for SEUSL (South Eastern Univers
 * Curriculum-based: pre-loaded core subjects for 1st–4th years (BICT).
 * Accurate GPA math using SEUSL 4.0 scale.
 * Dropdown grade selection to prevent input errors.
-* Responsive layout for mobile & desktop Flutter targets. ([GitHub][1])
+* Responsive layout for mobile & desktop Flutter targets. 
 
 ---
 
@@ -18,7 +18,7 @@ A modern, user-friendly **Flutter** application for SEUSL (South Eastern Univers
 
 * **Framework:** Flutter.
 * **Language:** Dart.
-* UI built using Material 3 + custom clippers. ([GitHub][1])
+* UI built using Material 3 + custom clippers.
 
 ---
 
@@ -38,7 +38,7 @@ A modern, user-friendly **Flutter** application for SEUSL (South Eastern Univers
 |     D | 1.0 |
 |     E | 0.0 |
 
-(Scale follows the project README.) ([GitHub][1])
+(Scale follows the project README.) 
 
 ---
 
@@ -85,28 +85,23 @@ flutter run -d android
 /web / linux / macos / windows / test
 pubspec.yaml
 README.md
-```
-
-(Actual file layout in the repository.) ([GitHub][1])
 
 ---
 
 ## 🖼 Screenshots
 
-Add screenshots to `/assets/screenshots/` and show them here in the README. Example markdown for an image:
-
 ```markdown
-![Splash Screen](<img width="560" height="1177" alt="image" src="https://github.com/user-attachments/assets/924f3f01-bc93-4b2f-ac49-c0695610c6f2" />)
+[Splash Screen](<img width="560" height="1177" alt="image" src="https://github.com/user-attachments/assets/924f3f01-bc93-4b2f-ac49-c0695610c6f2" />)
 
-![Welcome Scrren](<img width="800" height="1177" alt="image" src="https://github.com/user-attachments/assets/4ee25b35-3ba0-4abf-8c29-187ca7a98793" />
+[Welcome Scrren](<img width="800" height="1177" alt="image" src="https://github.com/user-attachments/assets/4ee25b35-3ba0-4abf-8c29-187ca7a98793" />
 )
-![!st year Screen](<img width="546" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d8af014-1bdf-4827-9542-f2cbebb31b2d" />)
+[!st year Screen](<img width="546" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d8af014-1bdf-4827-9542-f2cbebb31b2d" />)
 
-![2nd year Screen](<img width="543" height="1178" alt="image" src="https://github.com/user-attachments/assets/af77394f-a338-4cca-98f0-2f37c0dce9be" />)
+[2nd year Screen](<img width="543" height="1178" alt="image" src="https://github.com/user-attachments/assets/af77394f-a338-4cca-98f0-2f37c0dce9be" />)
 
-![3rd year Screen](<img width="547" height="1181" alt="image" src="https://github.com/user-attachments/assets/f5f47520-7029-4b4b-b1f8-5cdce05600b7" />)
+[3rd year Screen](<img width="547" height="1181" alt="image" src="https://github.com/user-attachments/assets/f5f47520-7029-4b4b-b1f8-5cdce05600b7" />)
 
-![4th year Screen](<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/b907d660-bf19-46d5-8a3c-b58ac65c11e1" />)
+[4th year Screen](<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/b907d660-bf19-46d5-8a3c-b58ac65c11e1" />)
 ```
 
 ## 🤝 Contributing
