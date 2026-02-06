@@ -96,13 +96,18 @@ README.md
 Add screenshots to `/assets/screenshots/` and show them here in the README. Example markdown for an image:
 
 ```markdown
-![Main Dashboard](assets/screenshots/main_screen.png)
-![GPA Calculator](assets/screenshots/calc_screen.png)
+![Splash Screen](<img width="560" height="1177" alt="image" src="https://github.com/user-attachments/assets/924f3f01-bc93-4b2f-ac49-c0695610c6f2" />)
+
+![Welcome Scrren](<img width="800" height="1177" alt="image" src="https://github.com/user-attachments/assets/4ee25b35-3ba0-4abf-8c29-187ca7a98793" />
+)
+![!st year Screen](<img width="546" height="1182" alt="image" src="https://github.com/user-attachments/assets/7d8af014-1bdf-4827-9542-f2cbebb31b2d" />)
+
+![2nd year Screen](<img width="543" height="1178" alt="image" src="https://github.com/user-attachments/assets/af77394f-a338-4cca-98f0-2f37c0dce9be" />)
+
+![3rd year Screen](<img width="547" height="1181" alt="image" src="https://github.com/user-attachments/assets/f5f47520-7029-4b4b-b1f8-5cdce05600b7" />)
+
+![4th year Screen](<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/b907d660-bf19-46d5-8a3c-b58ac65c11e1" />)
 ```
-
-(Placeholder images already referenced in the repo README.) ([GitHub][1])
-
----
 
 ## 🤝 Contributing
 
@@ -129,13 +134,3 @@ This project is distributed under the **MIT License** — see `LICENSE` in the r
 Repository owner: **Ahunah** — see the GitHub profile on the repository page for contact details and updates. ([GitHub][1])
 
 ---
-
-If you want, I can:
-
-* Generate a ready-to-copy `README.md` file with that content (formatted for your repo).
-* Add sample screenshots and update the `README.md` with those image links.
-* Add a short contributor guidelines section or issues/PR template.
-
-Which one do you want next?
-
-[1]: https://github.com/Ahunah/GPA-Calculator-SEUSL-.git "GitHub - Ahunah/GPA-Calculator-SEUSL-"
