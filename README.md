@@ -1,10 +1,3 @@
-Ah, now I understand clearly — you want a **README for your GPA Calculator Flutter app** that is structured like your Band Beat App README **and the screenshots actually show correctly on GitHub**.
-
-The key here is: **GitHub can only show images that are inside your repo or hosted online with a public URL**. Your previous project worked because the images were either uploaded to GitHub or hosted somewhere accessible. The `user-attachments` URLs you were using might not work in your new repo if they are not uploaded there.
-
-Here’s how to fix it and a ready-to-use README template for your GPA app:
-
----
 
 # SEUSL ICT GPA Calculator 🎓
 
@@ -92,24 +85,24 @@ flutter run
 
 ## 📸 Screenshots
 
+**Splash Screen**
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/d44cf23b-8b9e-4ec6-b223-5492f428c508" />
+
+**Welcome Screen**
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/bf672d66-a97a-4dc6-8673-2afcece9410e" />
+
 **1st Year GPA**
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cef30365-5257-4e8f-b4ca-f8e8ee7884ce" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/5e27bc75-af6e-46b9-bf26-26ee65677fd4" />
 
 **2nd Year GPA**
-
-![2nd Year](assets/screenshots/second.png)
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/2a138287-ee33-4620-bc0e-219e9e985abb" />
 
 **3rd Year GPA**
-
-![3rd Year](assets/screenshots/third.png)
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/11d7812f-8061-4ee9-b7a5-9e8c24ac905f" />
 
 **4th Year GPA**
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cef30365-5257-4e8f-b4ca-f8e8ee7884ce" />
 
-![4th Year](assets/screenshots/forth.png)
-
-> ✅ **Important:** Make sure all screenshots are stored in `assets/screenshots/` and committed to the repo. Paths are **case-sensitive**.
-
----
 
 ## 📂 Project Structure
 
@@ -123,11 +116,7 @@ gpa-calculator-seusl/
 │   ├── forth_year.dart
 │   └── main.dart
 ├── assets/
-│   └── screenshots/
-│       ├── first.png
-│       ├── second.png
-│       ├── third.png
-│       └── forth.png
+│   └── logo.png
 ├── pubspec.yaml
 └── README.md
 ```
