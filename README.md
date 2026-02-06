@@ -75,6 +75,8 @@ flutter run -d android
 
 ---
 
+![Uploading image.png…]()
+
 ## 📁 Project structure (high level)
 
 ```
