@@ -86,21 +86,27 @@ flutter run
 ## 📸 Screenshots
 
 **Splash Screen**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/d44cf23b-8b9e-4ec6-b223-5492f428c508" />
 
 **Welcome Screen**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/bf672d66-a97a-4dc6-8673-2afcece9410e" />
 
 **1st Year GPA**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/5e27bc75-af6e-46b9-bf26-26ee65677fd4" />
 
 **2nd Year GPA**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/2a138287-ee33-4620-bc0e-219e9e985abb" />
 
 **3rd Year GPA**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/11d7812f-8061-4ee9-b7a5-9e8c24ac905f" />
 
 **4th Year GPA**
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cef30365-5257-4e8f-b4ca-f8e8ee7884ce" />
 
 
