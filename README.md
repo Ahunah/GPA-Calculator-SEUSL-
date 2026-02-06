@@ -104,6 +104,8 @@ README.md
 
 ## 🤝 Contributing
 
+<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/8bb9f005-600e-4422-8a6f-2627c58767e7" />
+
 Contributions welcome:
 
 1. Fork the repo.
