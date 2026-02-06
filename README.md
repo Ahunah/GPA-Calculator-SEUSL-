@@ -51,6 +51,12 @@ git clone https://github.com/Ahunah/GPA-Calculator-SEUSL-.git
 cd GPA-Calculator-SEUSL-
 ```
 
+### login as user
+user login and Register 
+
+* ![Uploading image.png…]()
+
+
 2. **Get dependencies**
 
 ```bash
@@ -89,6 +95,7 @@ pubspec.yaml
 README.md
 
 ---
+
 
 ## 🖼 Screenshots
 
