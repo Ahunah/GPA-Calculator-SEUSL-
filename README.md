@@ -93,7 +93,7 @@ flutter run
 ## 📸 Screenshots
 
 **1st Year GPA**
-<img width="548" height="1182" alt="image" src="https://github.com/user-attachments/assets/cef30365-5257-4e8f-b4ca-f8e8ee7884ce" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/cef30365-5257-4e8f-b4ca-f8e8ee7884ce" />
 
 **2nd Year GPA**
 
